@@ -3,6 +3,7 @@ The work is part of my homework in STAT 436 at University of Wisconsin-Madison.
 
 # Dataset Source
 https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-09-16
+
 The dataset was created by Brian Mubia and consists of recipes scraped from AllRecipes.com. It provides a broad snapshot of cooking data collected over time, including information about ingredients, nutrition, country of origin and user ratings.
 
 ## Finished app link
