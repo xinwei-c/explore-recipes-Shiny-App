@@ -32,7 +32,7 @@ With the contexts on the top, the interface basically applies a left sidebar and
 When using the app, I found something unexpected by selecting and brushing through the data. For Argentinian recipes, the plot shows that dishes with more fat usually get lower ratings on the website. The average calories for these recipes are about 291 kcal. But when I select Thai food, the pattern looks different as the dishes with more fat actually get higher ratings, and the average calories rise to around 421 kcal. This kind of insight is easier to see with the multiple variables selection. Besides, as the app lets me filter by country and highlight parts of the plot, it becomes easy to notice that the same factor can be linked to ratings in different ways depending on the origin of the country.
 
 ## Part of code as overview
-### libeary usage
+### library usage
 ```{r }
 #library
 library(janitor)
