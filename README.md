@@ -1,4 +1,4 @@
-# Food-Explore-Shiny-App
+# Explore recipes in Shiny App
 The work is part of my homework in STAT 436 at University of Wisconsin-Madison.
 
 # Dataset Source
